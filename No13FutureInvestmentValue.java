@@ -1,4 +1,18 @@
-package chapter1;
+
+/**
+
+Write a method that computes future investment value at a given interest rate for a specified number of years. 
+The future investment is determined using the formula in No 01. 
+Use the following method header:
+
+	public static double futureInvestmentValue(double investmentAmount, double monthlyInterestRate, int years)
+
+For example, futureInverstmentValue (10000, 0.05/12, 5) returns 12833.59
+
+Write a test program that prompts the user to enter the investment amount (eg., 1000) and the
+interest rate (e.g., 9%), and print a table that displays future value for the years form 1 to 30.
+
+**/
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
