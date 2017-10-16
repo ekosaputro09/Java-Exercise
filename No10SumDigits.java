@@ -1,4 +1,11 @@
-package chapter1;
+
+/**
+
+Write a method that computes the sum of the digits in an integer. 
+Use the following method header: public static int sumDigits(long n)
+For example, sumDigits(234) returns 2 + 3 + 4 = 9
+
+**/
 
 import java.util.Scanner;
 
