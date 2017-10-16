@@ -1,4 +1,11 @@
-package chapter1;
+
+/**
+
+Write the following method to return an integer reversed:
+public static int reverse(int number)
+For example, reverse(3456) returns 6543
+
+**/
 
 import java.util.Scanner;
 
