@@ -1,4 +1,17 @@
-package chapter1;
+
+/**
+
+Use nested loops that pint the following patterns in four separate programs:
+
+Pattern I 	Pattern II 	Pattern III 	Pattern IV
+1 		1 2 3 4 5 6 	          1 	1 2 3 4 5 6
+1 2 		1 2 3 4 5 	        1 2 	  1 2 3 4 5
+1 2 3 		1 2 3 4 	      1 2 3 	    1 2 3 4
+1 2 3 4	 	1 2 3 		    1 2 3 4 	      1 2 3
+1 2 3 4 5	1 2 		  1 2 3 4 5 	        1 2
+1 2 3 4 5 6 	1 		1 2 3 4 5 6 	          1
+
+**/
 
 public class No7NumberPattern {
 
