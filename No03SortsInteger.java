@@ -1,4 +1,10 @@
-package chapter1;
+/**
+
+Write a program that sorts three integers. The integers are entered from the input dialogs and
+stored in variable num1, num2 and num3, respectively. The program sorts the numbers so that
+num1 <= num2 <= num3.
+
+**/
 
 import java.util.ArrayList;
 import java.util.Collections;
