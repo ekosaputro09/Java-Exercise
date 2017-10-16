@@ -1,4 +1,9 @@
-package chapter1;
+/**
+
+Write a program that prompts the user to enter an integer and checks whether the number is
+divisible by both 5 and 6, neither, or just one of them.
+
+**/
 
 import java.util.Scanner;
 
