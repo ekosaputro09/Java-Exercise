@@ -1,4 +1,18 @@
-package chapter1;
+
+/**
+
+Create a class named MyTriangle that contains the following two methods:
+
+* Returns true if the sum of any two sides is greater that the third side.
+public static boolean isValid(double side1, double side2, double side3)
+
+* Returns the area of the triangle.
+public static double area(double side1, double side2, double side3)
+
+Write a test program that reads three sides for a triangle and computes the area if the input is
+valid. Otherwise, it displays that the input is invalid.
+
+**/
 
 import java.util.Scanner;
 
