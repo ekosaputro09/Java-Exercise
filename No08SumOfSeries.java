@@ -1,4 +1,11 @@
-package chapter1;
+
+/**
+
+Write a program to sum the following series:
+
+	99/97 + 97/95 + ... + 13/11 + 11/9 + 9/7 + 7/5 + 5/3 + 3/1
+
+**/
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
