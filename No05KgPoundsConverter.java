@@ -1,4 +1,8 @@
-package chapter1;
+/**
+
+Write a program that displays the table that converts kilogram to pounds(note that 1 kilogram is 2.2 pounds)
+
+**/
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
